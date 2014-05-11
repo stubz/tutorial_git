@@ -1,8 +1,10 @@
 #!/bin/env python
 
+#######################################################
 # 1. count the number of rows in a file
 # if the file size is small, the best solutio is 
 # count = len(open('address.txt', 'rU').readlines() )
+#######################################################
 count = -1 # in case 0 line
 for count, line in enumerate(open('address.txt', 'rU')):
     pass
