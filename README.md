@@ -4,3 +4,4 @@ this is a dddd
 
  - feature-A
  - fix-B
+ - feature-C
